@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Michelle 👋🏼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellehwin)](https://github.com/anuraghazra/github-readme-stats)
 
