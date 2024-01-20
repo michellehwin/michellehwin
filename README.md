@@ -1,6 +1,6 @@
 ### Hi, I'm Michelle 👋🏼
 
-I'm a computer science and business student at The University of Texas at Austin. I'm currently interested in exploring career opportunities in software engineering and data science. I'm particularly drawn to industries such as sports, clean energy, and transportation where technology can make a significant impact. Outside of school, I love to play and watch sports and sew. Feel free to reach out at michellehwin@gmail.com!
+I'm a computer science and business student at The University of Texas at Austin. I'm currently interested in exploring career opportunities in software engineering and data science.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellehwin)](https://github.com/anuraghazra/github-readme-stats)
 
